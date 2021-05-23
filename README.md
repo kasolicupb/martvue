@@ -1,24 +1,4 @@
-# martvue
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+#使用Vue3搭建的商城
+##参考了github上某高star的商城项目进行开发，配合服务器可以在本地运行
+#使用’npm run serve‘启动
+技术栈包括vue-router、Vuex、vue-cli、vantui、axios等。另github上还有自己用springboot写的后端，配合使用效果更佳。
